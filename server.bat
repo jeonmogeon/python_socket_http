@@ -1,0 +1,1 @@
+python server.py > socket.log
